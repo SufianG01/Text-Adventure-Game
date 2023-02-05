@@ -1,0 +1,41 @@
+body {
+    background: url("/99824.jpg");
+    color: #ffffff;
+    font-family: serif;
+    font-size: 30px;
+    font-weight: bold;
+    
+    
+    line-height: 1.42857143;
+    margin: 10% 10% 10% 10%;
+    display: flex;
+   align-content: center;
+    justify-content: center;
+    
+}
+#gamearea {
+    color: aliceblue;
+    font-family: serif;
+    font-size: 20px;
+    
+   
+
+}
+
+#buttonarea {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+button.button {
+    background-color: #ffee00;
+    border: 0;
+    color: #000000;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
+    padding: 10px;
+
+
+}
